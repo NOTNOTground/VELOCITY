@@ -1,0 +1,70 @@
+body{
+    background-image:url(fieldblured.jpg);
+    background-size: 2000px;
+}
+h1{
+    text-align: center;
+    font: bolder;
+    padding: 10px;
+    /* linear-gradient: */
+        background-image: linear-gradient(to right, rgb(227, 255, 102), #fd8080);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        
+}
+.kan{
+     padding: 20px 40px;  
+     margin-left: 220px;
+     background-color: rgb(168, 255, 226);
+     transition: ease;
+     transition-duration: 0.5s;
+     border-radius: 5px;
+}
+.kan:hover{
+    transform: translateY(-10px);
+    background-color: rgb(148, 255, 113);
+    transition: ease-in-out;
+    transition-duration: 0.3s;
+    color:rgb(0, 187, 255);
+}
+.en{
+    padding: 20px 40px;
+    margin-left: 140px;
+    background-color: rgb(168, 255, 226);
+    transition: ease;
+    transition-duration: 0.5s;
+    border-radius: 5px;
+}
+.en:hover{
+    transform: translateY(-10px);
+    background-color: rgb(148, 255, 113);
+    transition: ease-in-out;
+    transition-duration: 0.5s;
+    color:rgb(9, 144, 255);
+}
+.greeter{
+    text-align: center;
+    font: bolder;
+    padding: 10px;
+    /* linear-gradient: */
+        background-image: linear-gradient(to right, rgb(227, 255, 102), #fd8080);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        
+}
+.kaliarticle {
+    display: block;
+    margin-left: 300px;
+    padding: 20px 40px;
+    background-color: rgb(168, 255, 226);
+    transition: ease;
+    transition-duration: 0.5s;
+    border-radius: 5px;
+  }
+.kaliarticle:hover{
+    transform: translateY(-10px);
+    background-color: rgb(148, 255, 113);
+    transition: ease-in-out;
+    transition-duration: 0.3s;
+    color:rgb(0, 187, 255);
+}
