@@ -50,7 +50,7 @@ h1{
         background-image: linear-gradient(to right, rgb(227, 255, 102), #fd8080);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
-        
+        text-decoration: none;
 }
 .kaliarticle {
     display: block;
@@ -59,7 +59,8 @@ h1{
     background-color: rgb(168, 255, 226);
     transition: ease;
     transition-duration: 0.5s;
-    border-radius: 5px;
+    border-radius: 8px;
+    text-decoration: none;
   }
 .kaliarticle:hover{
     transform: translateY(-10px);
@@ -67,4 +68,5 @@ h1{
     transition: ease-in-out;
     transition-duration: 0.3s;
     color:rgb(0, 187, 255);
+    text-decoration: none;
 }
