@@ -53,7 +53,8 @@ h1{
         text-decoration: none;
 }
 .kaliarticle {
-    display: block;
+    display: flex;
+    justify-content: center;
     margin-left: 300px;
     padding: 20px 40px;
     background-color: rgb(168, 255, 226);
@@ -70,3 +71,5 @@ h1{
     color:rgb(0, 187, 255);
     text-decoration: none;
 }
+
+   
