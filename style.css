@@ -84,6 +84,14 @@ h1{
     text-align:center;
     padding: 20px;
 }
+.en {
+    display: block;
+    margin: 0 auto; 
+  }
+  .kaliarticle {
+    display: block;
+    margin: 0 auto; 
+  }
 
 
    
